@@ -1,2 +1,2 @@
 # edureka-demo
-Demo repo to practice on edureka
+Demo repo to practice on edureka labs
